@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rambla:wght@400;700&display=swap');
+
 :root {
   --yellow: #f3db42;
   --blue: #0094ee;
@@ -16,7 +17,7 @@ header {
   text-align: center;
 }
 body {
-  font-family: 'Abel', sans-serif;
+  font-family: 'Rambla', sans-serif;
 }
 header h1 {
   padding: 5px;
